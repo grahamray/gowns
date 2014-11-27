@@ -1,0 +1,52 @@
+/* New Style Colors */
+footer {
+    background-color: #8AACA6;
+}
+
+.top-bar {
+    background-color: #8AACA6;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+    background-color: #A3CCC5;
+}
+        
+.top-bar-section li:not(.has-form) a:not(.button) {
+    background-color: #8AACA6;
+}
+
+footer p {
+    color: #ffffff;
+}
+
+.top-bar-section > ul > .divider, .top-bar-section .divider, .top-bar-section [role="separator"] {
+    border-right: solid 1px #ffffff;
+}
+
+.top-bar-section .divider, .top-bar-section [role="separator"] {
+    border-top: solid 1px #ffffff;   
+}
+
+.gtg {
+    background-color: #AEE2E8;
+    border: 5px solid #8AACA6;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+
+
+.gtg h3 {
+    font-size: 18px;
+}
+
+.gtg h2 {
+    font-family: "Lush", cursive;
+    font-size: 45px;
+    color: #ffffff;
+}
+
+div > hr {
+
+}
